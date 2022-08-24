@@ -20,5 +20,8 @@
     "mocha-multi": "1.0.1",
     "sinon": "^7.2.3",
     "sinon-stub-promise": "^4.0.0"
+  },
+  "dependencies": {
+    "learn": "^0.1.5"
   }
 }
